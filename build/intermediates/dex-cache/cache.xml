@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/js/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/js/AndroidStudioProjects/ProjetCloud/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_6ae4a88dee6aa48673e0ea9b3b7221c3394f6130.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/js/AndroidStudioProjects/ProjetCloud/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/js/AndroidStudioProjects/ProjetCloud/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_28f6527e5fc659b54826d10d149b5b47b5dc5c56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/js/AndroidStudioProjects/ProjetCloud/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/js/AndroidStudioProjects/ProjetCloud/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_20c74d08e2b8b4ca212430339255d554cf69e853.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/js/AndroidStudioProjects/ProjetCloud/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/js/AndroidStudioProjects/ProjetCloud/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_6bd89545892977d0368bdffbf362d38a49a22f13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/js/AndroidStudioProjects/ProjetCloud/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/js/AndroidStudioProjects/ProjetCloud/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_db1d01bf1a6fdcde4b601e75c2f267a62a63e314.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/js/AndroidStudioProjects/ProjetCloud/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/js/AndroidStudioProjects/ProjetCloud/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_096ba3468e129946f0fc6c09595dc22718020ff9.jar" />
+    </item>
+
+</items>
